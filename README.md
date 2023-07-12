@@ -1,13 +1,13 @@
 # DCIT-202-Android-  BOOGIE WOOGIE
 An simple and light weight app for music enthuasiats on android
 
-## GROUP MEMBERS
-1) AGBODOGLI, MANASSEH KOFI - github.com/Khofcode
-2) LAMPTEY, DANIEL - github.com/danieladjeilamptey
-3) AFATSAO, CHRISTIAN YAW - github.com/shadowkxris 
-4) OPARE, NANA CUDJOE ASANTE - github.com/K.S.O(10954084) 
-5) NUMATSI, RICHARD KWESI - github.com/numatsirichardkwesi me
-6) NSIAH, ERNEST - github.com/Ernest2347
+## GROUP MEMBERS  AND GITHUB
+1) AGBODOGLI, MANASSEH KOFI - [Khofcode](https://github.com/Khofcode)
+2) LAMPTEY, DANIEL - [danieladjeilamptey](https://github.com/danieladjeilamptey)
+3) AFATSAO, CHRISTIAN YAW - [shadowkxris](https://github.com/shadowkxris) 
+4) OPARE, NANA CUDJOE ASANTE - [K.S.O(10954084)](https://github.com/K.S.O(10954084)) 
+5) NUMATSI, RICHARD KWESI - [numatsirichardkwesi me](https://github.com/numatsirichardkwesi)
+6) NSIAH, ERNEST - [Ernest2347](https://github.com/Ernest2347)
 7) DODOO, JEREMY AMANOR -
 8) BONNEY, FREDERICK MENSAH -
 9) AMOAH-SAGOE, DAVID PAA KWESI -
